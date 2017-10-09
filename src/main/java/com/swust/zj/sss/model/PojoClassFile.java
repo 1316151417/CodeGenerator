@@ -25,6 +25,7 @@ public class PojoClassFile extends JavaFile {
 		imports.add("javax.persistence.Entity");
 		imports.add("javax.persistence.GeneratedValue");
 		imports.add("javax.persistence.Id");
+		imports.add("com.fasterxml.jackson.annotation.JsonGetter");
 		
 		//classAnnotations
 		classAnnotations.add("Entity");
