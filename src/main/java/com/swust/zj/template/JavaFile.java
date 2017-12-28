@@ -317,7 +317,7 @@ public class JavaFile {
         //ensureWritePackage
         stringBuilder.append("package ");
         stringBuilder.append(packagei);
-        stringBuilder.append(";\r\n");
+        stringBuilder.append(";\n");
         //addResource
         if(resource != null) {
         	stringBuilder.append(resource);
