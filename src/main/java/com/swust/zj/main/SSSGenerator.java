@@ -1,16 +1,16 @@
-package com.swust.zj.sss.main;
+package com.swust.zj.main;
 
 import java.util.Scanner;
 
-import com.swust.zj.sss.model.ApplicationClassFile;
-import com.swust.zj.sss.model.ApplicationYmlResourceFile;
-import com.swust.zj.sss.model.ControllerClassFile;
-import com.swust.zj.sss.model.PojoClassFile;
-import com.swust.zj.sss.model.PomXmlResourceFile;
-import com.swust.zj.sss.model.RepositoryInterfaceFile;
-import com.swust.zj.sss.model.ResultClassFile;
-import com.swust.zj.sss.model.ServiceClassFile;
-import com.swust.zj.sss.model.ServiceInterfaceFile;
+import com.swust.zj.template.spring.ApplicationClassFile;
+import com.swust.zj.template.spring.ApplicationYmlResourceFile;
+import com.swust.zj.template.springmvc.ControllerClassFile;
+import com.swust.zj.template.common.PojoClassFile;
+import com.swust.zj.template.common.PomXmlResourceFile;
+import com.swust.zj.template.springdatajpa.RepositoryInterfaceFile;
+import com.swust.zj.template.common.ResultClassFile;
+import com.swust.zj.template.service.ServiceClassFile;
+import com.swust.zj.template.service.ServiceInterfaceFile;
 
 /**
 * @author 周杰

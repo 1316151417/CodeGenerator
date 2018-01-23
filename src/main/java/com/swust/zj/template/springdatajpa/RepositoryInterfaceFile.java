@@ -1,9 +1,9 @@
-package com.swust.zj.sss.model;
+package com.swust.zj.template.springdatajpa;
 
 import java.util.LinkedList;
 import java.util.List;
 
-import com.swust.zj.template.JavaFile;
+import com.swust.zj.base.JavaFile;
 
 /**
 * @author 周杰

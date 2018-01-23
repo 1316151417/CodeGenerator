@@ -1,4 +1,4 @@
-package com.swust.zj.template;
+package com.swust.zj.base;
 
 import java.io.File;
 import java.io.FileWriter;

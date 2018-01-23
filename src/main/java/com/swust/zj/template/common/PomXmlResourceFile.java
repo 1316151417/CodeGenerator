@@ -1,6 +1,6 @@
-package com.swust.zj.sss.model;
+package com.swust.zj.template.common;
 
-import com.swust.zj.template.ResourceFile;
+import com.swust.zj.base.ResourceFile;
 
 /**
 * @author 周杰
