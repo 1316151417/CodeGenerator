@@ -9,8 +9,8 @@
         <module name="CodeGenerator" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel target="1.8">
-      <module name="CodeGenerator" target="1.8" />
+    <bytecodeTargetLevel>
+      <module name="CodeGenerator" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
